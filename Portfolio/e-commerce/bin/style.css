@@ -1,0 +1,66 @@
+/* css go here */
+
+*{
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-ms-box-sizing:border-box;
+	box-sizing:border-box;
+
+}
+
+.header{
+	display: flex;
+    justify-content: center;
+    padding:3px;
+    background: #5492c1;
+    color: white;    
+}
+
+.sections{
+     display: flex;
+}
+
+.elements{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+}
+
+.element{
+	display: flex;
+    padding: 1px;
+    color:#4894ba;    
+    width: 100%;
+}
+
+.image{
+   padding: 8px;
+}
+
+.lowTitle{
+    color: #3f4a70
+}
+
+.description{
+    
+}
+
+.menu{
+    display:inline-block;
+    width: 30%;
+    padding: 10px;
+}
+
+button{
+    margin-left: 10px;
+    border: 2px #5492c1 solid;
+    background: #5492c1;
+    color:white;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    background: grey;
+    color: white;
+}

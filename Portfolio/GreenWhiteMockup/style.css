@@ -1,0 +1,49 @@
+*{
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-ms-box-sizing:border-box;
+	box-sizing:border-box;
+}
+
+.row{
+    width: 100%;
+}
+
+.col-1{
+    width: 8.33%;
+}
+
+.col-2{
+    width: 16.66%;
+}
+
+.col-3{
+    width: 25%;
+}
+
+.col-4{
+    width: 33.33%;
+}
+
+.col-5{
+    width: 41.66%;
+}
+
+.col-6{
+    width: 50%;
+}
+
+.col-10{
+    width: 83,34%;
+}
+
+}.title{
+    background: green;
+    text-align: left;
+    border-bottom: 15px;
+    padding: 15px;
+}
+
+.app{
+    
+}

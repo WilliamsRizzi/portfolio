@@ -1,0 +1,69 @@
+/* Here we insert the CSS styles */
+header{
+    text-align: center;
+    width: 10
+    border: solid 1px;
+    background: darkblue;
+    color: #e7dede;
+}
+
+h2{
+    color: darkblue;
+}
+
+html{
+    background: lightblue;
+    text-align: center;
+    font-family: ;
+}
+
+body{
+    text-align: left
+}
+ nav li a{
+     text-decoration: none;
+     color: #f1ebeb;
+ }
+
+.pins{
+    text-align: center;
+}
+
+nav{
+    width: 100%;
+    display: inline-flex;
+    justify-content: center;
+}
+
+nav li{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    background-color: #51a7f9;
+    display: inline-flex;
+}
+
+
+li:hover {
+    background: rgba(79, 80, 163, 6);
+}
+
+li:active{
+    background: rgba(255, 22, 43, 6);
+}
+
+
+section ul li{
+    display: inline-block;
+    padding-left: 2%;
+    padding-right: 2%;
+    border: solid 1px #51a7f9;
+    color: darkblue;
+}
+
+footer{
+    text-align: center;
+    padding: 5px;
+    background: f1ebeb;
+}
